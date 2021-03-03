@@ -9,7 +9,9 @@ Install all dependencies, run:
 ```
   npm i
 ```
-or ```
+or 
+
+```
   yarn
 ```
 
